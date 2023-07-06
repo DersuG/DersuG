@@ -11,6 +11,12 @@ you want.
 - the web shouldn't be this bloated
 - privacy is a right
 
+## projects
+
+- [baby-vm](https://github.com/dgoorskey/baby-vm)
+- learning 6502 assembly
+- personal site: [dawnvoid.neocities.org](https://dawnvoid.neocities.org)
+
 ## contact
 
 - email 1: `goorskey.1@osu.edu`
