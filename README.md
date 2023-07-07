@@ -5,17 +5,12 @@ you want.
 
 ## whoami
 
-- third year undergrad at OSU, CS major
+- third year undergrad at OSU
+- CS major
 - tea drinker
 - kitty enjoyer
 - the web shouldn't be this bloated
 - privacy is a right
-
-## projects
-
-- [baby-vm](https://github.com/dgoorskey/baby-vm)
-- learning 6502 assembly
-- personal site: [dawnvoid.neocities.org](https://dawnvoid.neocities.org)
 
 ## contact
 
